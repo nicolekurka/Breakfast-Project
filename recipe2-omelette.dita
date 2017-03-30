@@ -4,9 +4,12 @@
     <title>Omelette</title>
     <shortdesc> Here is how you make an omelette. </shortdesc>
     <taskbody>
-        <context>
-            <p>Ingredients</p>
-        </context>
+        <prereq>
+            <ul>
+                <li audience="mom">bacon</li>
+                <li audience="Armando">spinach</li>
+            </ul>
+        </prereq>
         <steps>
             <step>
                 <cmd>Three Eggs</cmd>
