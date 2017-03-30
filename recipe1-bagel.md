@@ -1,6 +1,7 @@
 # Recipe 1
 
 ## Breakfast Sandwich
+This is how to make a breakfast sandwich for those on-the-go mornings!
 
 ### Ingredients
 * Everything Bagel
