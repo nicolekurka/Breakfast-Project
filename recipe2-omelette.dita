@@ -4,18 +4,21 @@
     <title>Omelette</title>
     <shortdesc> Here is how you make an omelette. </shortdesc>
     <taskbody>
-        <prereq>
+        <prereq> You will need these <b>ingreidents</b>.
             <ul>
-                <li audience="mom">bacon</li>
-                <li audience="Armando">spinach</li>
+                <li audience="mom">3 Eggs</li>
+                <li audience="Armando">Spinach</li>
+                <li audience="mom"> Bacon Bits</li>
+                <li>Diced tomatoes</li>
+                <li audience="mom">1 cup Provolone Cheese</li>
             </ul>
         </prereq>
         <steps>
             <step>
-                <cmd>Three Eggs</cmd>
+               <cmd></cmd>
             </step>
             <step>
-                <cmd>Sliced Green and Red Peppers</cmd>
+                <cmd></cmd>
             </step>
         </steps>
     </taskbody>
