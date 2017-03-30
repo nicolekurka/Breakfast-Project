@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_kjf_mcj_kz">
+    <title>Omelette</title>
+    <shortdesc> Here is how you make an omelette. </shortdesc>
+    <taskbody>
+        <context>
+            <p>Ingredients</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Three Eggs</cmd>
+            </step>
+            <step>
+                <cmd>Sliced Green and Red Peppers</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
