@@ -20,7 +20,25 @@
         </prereq>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Prepare the vegetables and set aside. Preheat a 10-inch skillet over medium heat.</cmd>
+            </step>
+            <step>
+                <cmd>In a small bowl, whisk together the chickpea flour, garlic powder, salt, pepper, baking powder, and optional red pepper flakes.</cmd>
+            </step>
+            <step>
+                <cmd>Add the water and whisk well until no clumps remain. I like to whisk it for a good 15 seconds to create lots of air bubbles in the batter.</cmd>
+            </step>
+            <step>
+                <cmd>Stir in the chopped vegetables.</cmd>
+            </step>
+            <step>
+                <cmd>When the skillet is pre-heated (a drop of water should sizzle on the pan), spray it liberally with olive oil or other non stick cooking spray.</cmd>
+            </step>
+            <step>
+                <cmd>Pour on all of the batter (if making 1 large pancake) and quickly spread it out all over the pan. Cook for about 5-6 minutes on one side (timing will depend on how hot your pan is), until you can easily slide a pancake flipper/spatula under the pancake and it's firm enough not to break when flipping. Flip pancake carefully and cook for another 5 minutes, until lightly golden. Be sure to cook for enough time as this pancake takes much longer to cook compared to regular pancakes.</cmd>
+            </step>
+            <step>
+                <cmd>Serve on a large plate and top with your desired toppings. Leftovers can be wrapped up and placed in the fridge. Reheat on a skillet until warmed throughout.</cmd>
             </step>
         </steps>
     </taskbody>
