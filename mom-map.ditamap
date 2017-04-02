@@ -2,4 +2,9 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title/>
+ <topicref href="opening-page.dita"/>
+ <topicref href="recipe1-bagel.md" format="markdown"/>
+ <topicref href="recipe2-omelette.dita"/>
+ <topicref href="recipe4-chorizo.dita"/>
+ <topicref href="recipe6-loadhb.dita"/>
 </map>
