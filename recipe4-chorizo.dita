@@ -17,11 +17,29 @@
             </ul>    
         </prereq>
         <context>
-            <p></p>
+            <p><b>Instructions</b></p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Heat up non-stick skillet with vegetable oil over medium high heat.</cmd>
+            </step>
+            <step>
+                <cmd>Add in potatoes, season with salt and pepper and turn with spatula occasionally to fry until golden brown on all sides and fork tender.</cmd>
+            </step>
+            <step>
+                <cmd>Remove from skillet and set aside. Add in chorizo sausage and onions, cooking until no longer pink and onions are softened.</cmd>
+            </step>
+            <step>
+                <cmd>Place on same plate as potatoes. Keep warm. Wipe skillet of excess grease. Reduce heat to medium.</cmd>
+            </step>
+            <step>
+                <cmd>Crack eggs, one at a time, into skillet and let fry. Do not flip. Let sit until whites have become firm.</cmd>
+            </step>
+            <step>
+                <cmd>Remove from skillet.</cmd>
+            </step>
+            <step>
+                <cmd>Divide potatoes and sausage onto four plates, top each plate with 1 egg. Sprinkle with minced cilantro and drizzle with ranch dressing or sour cream if desired. Enjoy!</cmd>
             </step>
         </steps>
     </taskbody>
