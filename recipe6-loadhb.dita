@@ -4,12 +4,37 @@
     <title>Loaded Hashbrowns</title>
     <shortdesc/>
     <taskbody>
+        <prereq><b>Ingredients</b>
+        <ul>
+            <li>1.5 cups of frozen hashbrowns</li>
+            <li>1/2 cup of diced peppers</li>
+            <li>3/4 cup of sausage crumbles</li>
+            <li>1.5 cups of shredded cheddar cheese</li>
+            <li>Dollup of sour cream</li>
+            <li>1 tablespoon of olive oil</li>
+        </ul>
+        </prereq>
         <context>
-            <p></p>
+            <p><b>Instructions</b></p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Heat oil a medium sized saucepan.</cmd>
+            </step>
+            <step>
+                <cmd>Pour frozen hashbrowns into saucepan, and mix them with a spatula to keep them from sticking to the pan.</cmd>
+            </step>
+            <step>
+                <cmd>In another pan, brown sausage crumbles. Cook peppers with sausage.</cmd>
+            </step>
+            <step>
+                <cmd>Pour sausage crumbles into pan of hashbrowns and cook until the potatoes are golden brown.</cmd>
+            </step>
+            <step>
+                <cmd>Once hashbrowns are golden brown, serve on a plate.</cmd>
+            </step>
+            <step>
+                <cmd>Top with cheddar cheese and sour cream. Enjoy!</cmd>
             </step>
         </steps>
     </taskbody>
