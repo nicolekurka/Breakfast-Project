@@ -17,6 +17,7 @@
                 <li audience="Armando">1/4 cup hummus</li>
             </ul>
         </prereq>
+        <context><b>Instructions</b></context>
         <steps>
             <step>
                 <cmd>Add fillings to a medium sauce pan.</cmd>
