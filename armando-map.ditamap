@@ -8,6 +8,6 @@
  <topicref href="recipe3-CPpancake.dita"/>
  <topicref href="recipe5-quinoa.dita"/>
  <topicref href="recipe7-cptoast.dita"/>
- <topicref href="sources.dita"/>
  <topicref href="cleanup.md" format="markdown"/>
+ <topicref href="sources.dita"/>
 </map>
