@@ -7,14 +7,14 @@
         <prereq> You will need these <b>ingreidents</b>.
             <ul>
                 <li audience="mom">3 Eggs</li>
-                <li audience="Armando">Silken Tofu</li>
+                <li audience="armando">Silken Tofu</li>
                 <li audience="mom"> 1/2 bag of Bacon Bits</li>
-                <li audience="Armando">1/2 cup of Black Beans</li>
+                <li audience="armando">1/2 cup of Black Beans</li>
                 <li>Diced tomatoes</li>
                 <li>1/4 cup of Mushrooms</li>
                 <li>1/4 cup of diced peppers</li>
                 <li audience="mom">1 cup Provolone Cheese</li>
-                <li audience="Armando">1/4 cup hummus</li>
+                <li audience="armando">1/4 cup hummus</li>
             </ul>
         </prereq>
         <context><b>Instructions</b></context>
@@ -32,7 +32,7 @@
                <cmd audience= "mom">While the fillings are cooking, crack the eggs into a different saucepan.</cmd>
             </step>
             <step>
-                <cmd audience="Armando">While the fillings are cooking, lay the silken tofu in the pan</cmd>
+                <cmd audience="armando">While the fillings are cooking, lay the silken tofu in the pan</cmd>
             </step>
             <step>
                 <cmd>Heat the pan to low-to-medium heat.</cmd>

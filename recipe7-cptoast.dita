@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_p2d_p3t_lz">
     <title>Greek Chickpeas on Toast</title>
-    <shortdesc/>
+    <shortdesc><image href="cptoast.jpg" id="image_fyk_qlt_lz"/></shortdesc>
     <taskbody>
         <prereq><b>Ingredients</b>
             <ul>
@@ -22,12 +22,25 @@
                 <li>a few pitted Kalamata olives, to garnish (optional)</li>
             </ul>
         </prereq>
-        <context>
-            <p><b></b></p>
-        </context>
+        <context><b>Instructions</b></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Heat up olive oil on a medium pan.</cmd>
+            </step>
+            <step>
+                <cmd>Add shallots and fry gently, stirring frequently, until almost translucent. Add garlic and fry until shallots are completely translucent and garlic is softened.</cmd>
+            </step>
+            <step>
+                <cmd>Add all the spices to the pan. Mix them into the onion and garlic mixture and fry off gently for 1-2 minutes stirring the whole time.</cmd>
+            </step>
+            <step>
+                <cmd>Squash tinned tomatoes or chop them roughly before adding to the pan with a couple of tablespoons of water. Simmer on low-medium heat until the sauce has thickened.</cmd>
+            </step>
+            <step>
+                <cmd>Mix in cooked chickpeas and let them warm through in the sauce. Season with salt, sugar and black pepper.</cmd>
+            </step>
+            <step>
+                <cmd>Serve on toasted bread with a sprinkle of fresh herbs and a few black olives.</cmd>
             </step>
         </steps>
     </taskbody>

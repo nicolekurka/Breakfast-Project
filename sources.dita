@@ -4,14 +4,20 @@
   <title>Sources</title>
   <body>
     <p> 
-      <xref href= "http://ohsheglows.com/2013/09/15/jumbo-chickpea-pancake-a-high-protein-filling-vegan-breakfast-or-lunch/">Jumbo Chickpea Pancake</xref>
+      <xref href= "http://ohsheglows.com/2013/09/15/jumbo-chickpea-pancake-a-high-protein-filling-vegan-breakfast-or-lunch/" audience="armando">Jumbo Chickpea Pancake</xref>
     </p>
     <p>
       <xref href="http://www.countrycleaver.com/2013/02/chorizo-breakfast-hash.html" format="html"
         scope="external" audience="mom">Chorizo Breakfast Hash</xref>
     </p>
     <p>
-      <xref href= "http://www.101cookbooks.com/archives/warm-and-nutty-cinnamon-quinoa-recipe.html">Warm and Nutty Cinnamon Quinoa</xref>
+      <xref href= "http://www.101cookbooks.com/archives/warm-and-nutty-cinnamon-quinoa-recipe.html" audience="armando">Warm and Nutty Cinnamon Quinoa</xref>
+    </p>
+    <p>
+      <xref href="http://www.lazycatkitchen.com/greek-chickpeas-on-toast/" audience="armando">Greek Chickpeas on Toast</xref>
+    </p>
+    <p>
+      <xref href="http://www.artofmanliness.com/2010/02/04/5-hearty-winter-breakfasts-to-fill-your-belly/" audience="mom">Biscuits and Gravy</xref>
     </p>
   </body>
 </topic>
