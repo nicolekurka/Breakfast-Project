@@ -10,7 +10,7 @@ This is how to make a breakfast sandwich for those on-the-go mornings!
 * Two eggs 
   * Can substitute tofu for eggs
 * Two slices of bacon
-  * Can substitute avocado for eggs 
+  * Can substitute avocado for bacon 
 
 ### Instructions
 1. Slice the bagel and put it in the toaster.
