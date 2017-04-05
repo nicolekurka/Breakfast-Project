@@ -47,5 +47,8 @@
                 <cmd>Remove omelette from pan, and place it onto a plate. Enjoy!</cmd>
             </step>
         </steps>
+        <postreq>
+            <p conref="health-disc.dita#disc/meat"/>
+        </postreq>
     </taskbody>
 </task>

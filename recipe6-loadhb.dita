@@ -37,5 +37,8 @@
                 <cmd>Top with cheddar cheese and sour cream. Enjoy!</cmd>
             </step>
         </steps>
+        <postreq>
+            <p conref="health-disc.dita#disc/meat"/>
+        </postreq>
     </taskbody>
 </task>

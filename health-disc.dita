@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="disc">
+ <title>Health and Safety Warning</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <p id="meat">If working with meat, be sure to use a meat thermometer (located in the drawer next to the stove) to check and make sure all of your meat is cooked all the way. All meats are finished when they reach 160 degrees fahrenheit.</p>
+  <p><image href="temps.jpg" id="image_kbp_zpw_lz"/></p>
+ </conbody>
+</concept>

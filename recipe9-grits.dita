@@ -35,5 +35,8 @@
                 <cmd>Spread warm grits on a serving platter and pour shrimp mixture on top.</cmd>
             </step>
         </steps>
+        <postreq>
+            <p conref="health-disc.dita#disc/meat"/>
+        </postreq>
     </taskbody>
 </task>

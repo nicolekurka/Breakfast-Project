@@ -12,4 +12,5 @@
  <topicref href="cleanup.md" format="markdown"/>
  <topicref href="ts.dita"/>
  <topicref href="sources.dita"/>
+ <topicref href="health-disc.dita"/>
 </map>

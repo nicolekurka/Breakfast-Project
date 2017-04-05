@@ -42,5 +42,8 @@
                 <cmd>Divide potatoes and sausage onto four plates, top each plate with 1 egg. Sprinkle with minced cilantro and drizzle with ranch dressing or sour cream if desired. Enjoy!</cmd>
             </step>
         </steps>
+        <postreq>
+            <p conref="health-disc.dita#disc/meat"/>
+        </postreq>
     </taskbody>
 </task>
