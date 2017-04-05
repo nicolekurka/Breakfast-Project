@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ryg_z5x_kz">
+    <title>Vegan French Toast</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <prereq><b> Ingredients</b>.
+            <ul>
+                <li>4-6 Pieces of Day Old Bread (sucks up the juices better)</li>
+                <li>¾ Cups Coconut Milk (1/2 a can)</li>
+                <li>1 Large Banana</li>
+                <li>1 teaspoon Vanilla Extract</li>
+                <li>½ teaspoon Cinnamon</li>
+                <li>1 Tablespoon Maple Syrup (plus more for serving)</li>
+                <li>Vegan Butter, Canola Oil, or Coconut Oil for frying</li>
+            </ul>
+        </prereq>
+        <context><b>Instructions</b></context>
+        <steps>
+            <step>
+                <cmd>In a food processor or blender, add your coconut milk (shake can before opening), banana, vanilla, a bit of maple syrup, and cinnamon.</cmd>
+            </step>
+            <step>
+                <cmd>Pulse, and whizz that up until you have a thin smoothie like consistency. If it is too watery, add more banana and blend again.</cmd>
+            </step>
+            <step>
+                <cmd>Heat up your pan to about medium and add a pat of butter. Pour your French Toast dip into a shallow bowl that will fit your slices of bread. When pan looks ready, dip your bread in and coat both sides.</cmd>
+            </step>
+            <step>
+                <cmd>Fry the bread up just like you would any French Toast.</cmd>
+            </step>
+            <step>
+                <cmd>Sometimes the sauce ventures around the pan and burns, just scrape it out and add a new pat of butter between batches.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="trouble_nxv_fkw_lz">
+  <title>Having Some Trouble?</title>
+  <troublebody>
+    <condition>
+      <p>You accidentally burnt yourself.</p>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <p>You might have touched a pan that is still hot while moving it to the sink to wash.</p>
+      </cause>
+      <remedy>
+        <responsibleParty>Treat the wound immediately.</responsibleParty>
+        <steps>
+          <step>
+            <cmd>Run cold water over the affected area.</cmd>
+          </step>
+          <step>
+            <cmd>Take the Neosporin from the junk drawer under the sink and apply it to the
+              wound</cmd>
+          </step>
+          <step>
+            <cmd>Depending on the size of the burn, decide if you want to use a BandAid or wrap it with gauze.  Both of these supplies are located with the Neosporin.</cmd>
+          </step>
+        </steps>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

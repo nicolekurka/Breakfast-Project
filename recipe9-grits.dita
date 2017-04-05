@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ghw_mlt_lz">
+    <title>Garlic Cheese Grits with Shrimp</title>
+    <shortdesc><image href="grits.jpg" id="image_npn_bkw_lz"/></shortdesc>
+    <taskbody>
+        <prereq><b>Ingredients</b>
+            <ul>
+                <li>3/4 cup uncooked grits</li>
+                <li>6 ounces garlic flavored processed cheese, cubed</li>
+                <li>1 pinch cayenne pepper</li>
+                <li>2 tablespoons butter</li>
+                <li>2 tablespoons olive oil</li>
+                <li>2 cloves garlic, minced</li>
+                <li>1 tomato, diced</li>
+                <li>2 pounds fresh shrimp, peeled and deveined</li>
+                <li>1/2 lemon, juiced</li>
+                <li>salt to taste</li>
+            </ul>
+        </prereq>
+        <context>
+            <p><b>Instructions</b></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Cook grits according to package directions. Stir in cubed cheese and cayenne pepper. Keep warm over low heat.</cmd>
+            </step>
+            <step>
+                <cmd>Heat butter and oil in a large skillet over medium-high heat. Saute garlic and tomato until tomato begins to soften.</cmd>
+            </step>
+            <step>
+                <cmd>Stir in shrimp and lemon juice. Saute until shrimp are pink. Season with salt to taste.</cmd>
+            </step>
+            <step>
+                <cmd>Spread warm grits on a serving platter and pour shrimp mixture on top.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
