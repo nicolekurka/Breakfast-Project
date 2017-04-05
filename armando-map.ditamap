@@ -10,7 +10,7 @@
   </topicmeta>
  </keydef>
  <topicref href="opening-page.dita"/>
- <topicref href="recipe1-bagel.md" format="markdown"/>
+ <topicref href="bagel.md" format="markdown"/>
  <topicref href="recipe7-cptoast.dita"/>
  <topicref href="recipe3-CPpancake.dita"/>
  <topicref href="recipe2-omelette.dita"/>
