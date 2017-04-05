@@ -2,7 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ghw_mlt_lz">
     <title>Biscuits and Gravy</title>
-    <shortdesc><image href="biscngrav.jpg" id="image_iyq_vlt_lz"/></shortdesc>
+    <shortdesc><image href="biscngrav.jpg" id="image_iyq_vlt_lz"/>
+        A picture of the delicious biscuits and gravy you will love!</shortdesc>
     <taskbody>
         <prereq><b>Ingredients</b>
             <ul>
