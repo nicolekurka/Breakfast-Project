@@ -1,0 +1,12 @@
+fil = new Array();
+fil["0"]= "bagel.html@@@Breakfast Sandwich@@@This is how to make a breakfast sandwich for those on-the-go mornings! Everything Bagel Handful of Arugala Slice of Tomato Two eggs Can substitute tofu for eggs Two slices of bacon Can substitute...";
+fil["1"]= "cleanup.html@@@Cleanup@@@What to do when cleaning up after breakfast! Dish Soap Sponge Ziplock Containers Freezer and Fridge You must be full, so now you have to clean up! Here you\u2019ll find what to do with your leftover...";
+fil["2"]= "ft.html@@@Vegan French Toast@@@Ingredients . 4-6 Pieces of Day Old Bread (sucks up the juices better) \u00BE Cups Coconut Milk (1/2 a can) 1 Large Banana 1 teaspoon Vanilla Extract \u00BD teaspoon Cinnamon 1 Tablespoon Maple Syrup (plus more...";
+fil["3"]= "health-disc.html@@@Health and Safety Warning@@@If working with meat, be sure to use a meat thermometer (located in the drawer next to the stove) to check and make sure all of your meat is cooked all the way. All meats are finished when they reach...";
+fil["4"]= "opening-page.html@@@How to Make Breakfast for Armando@@@You just woke up, so you must be starving! Here are a few recipes to chose from!...";
+fil["5"]= "recipe2-omelette.html@@@Omelette@@@Here is how you make an omelette...";
+fil["6"]= "recipe3-CPpancake.html@@@Jumbo Chickpea Pancake@@@Ever make pancakes out of chickpeas? Why not try it?...";
+fil["7"]= "recipe5-quinoa.html@@@Warm and Nutty Cinnamon Quinoa@@@This recipe is perfect for a rainy Blacksburg morning -- featuring hearty quinoa, fresh fruits, and crunchy pecans...";
+fil["8"]= "recipe7-cptoast.html@@@Greek Chickpeas on Toast@@@Add a dash of culture to your morning with this delicious toast, pictured here, created with Greece in mind!...";
+fil["9"]= "sources.html@@@Sources@@@Jumbo Chickpea Pancake Warm and Nutty Cinnamon Quinoa Greek Chickpeas on Toast Vegan French Toast...";
+fil["10"]= "ts.html@@@Having Some Trouble?@@@If you accidentally burnt yourself... You might have touched a pan that is still hot while moving it to the sink to wash. Treat the wound immediately. Run cold water over the affected area. Take the...";
