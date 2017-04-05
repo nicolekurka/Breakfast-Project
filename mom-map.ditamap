@@ -2,6 +2,13 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title/>
+ <keydef keys="person">
+  <topicmeta>
+   <keywords>
+    <keyword>Mom</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
  <topicref href="opening-page.dita"/>
  <topicref href="recipe8-biscngravy.dita"/>
  <topicref href="recipe1-bagel.md" format="markdown"/>
