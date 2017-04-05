@@ -1,0 +1,280 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:whc="http://www.oxygenxml.com/webhelp/components" xml:lang="en-us" lang="en-us">
+
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script>
+            /**
+             * If an old URL is given, redirect to the corresponding topic from the WebHelp Responsive
+             */
+            var actualLocation = window.location.href;
+            var newLocation;
+            if (actualLocation.indexOf('/#')!=-1) {
+                newLocation = actualLocation.replace(/\/#/g, "/");
+                window.location.replace(newLocation);
+            }
+            if (actualLocation.match(/\/index\.(.*)#/gi)!=null) {
+                newLocation = actualLocation.replace(/\/index\.(.*)#/gi, "/");
+                window.location.replace(newLocation);
+            }
+            
+            function debug(msg, object){
+                console.log(msg, object);
+            }
+            function executeQuery(){
+                $('#searchForm').submit();
+                return true;
+            }
+        </script>
+        
+	    <link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/webhelp_responsive_topic.css" />
+        
+        <!-- Latest compiled and minified Bootstrap CSS -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/bootstrap/css/bootstrap.min.css" />
+        
+        <!-- Bootstrap Optional theme -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/bootstrap/css/bootstrap-theme.min.css" />
+        
+        <!-- Changes and comments, as side-notes  -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/p-side-notes.css" />
+        
+        <!-- Template default styles  -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/template/resources/css/wt_default.css" />
+
+        
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/localization/strings.js"></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/localization.js"></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/parseuri.js"></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.cookie.js"></script>
+        
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.highlight-3.js"></script>
+        <!-- Skin resources -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/template/variants/tiles/ashes/skin.css" />
+        <!-- EXM-36950 - Expand the args.hdf parameter here -->
+        
+        
+    <title></title></head>
+    <body class="wh_main_page">
+        <!-- EXM-36950 - Expand the args.hdr parameter here -->
+        
+        
+        
+<nav class="navbar navbar-default wh_header">
+    <div class="container">
+        <div class="wh_header_flex_container">
+            <div class="wh_logo_and_publication_title_container">
+                <div class="wh_logo_and_publication_title">
+                    
+                    <!--
+                            This component will be generated when the next parameters are specified in the transformation scenario:
+                            'webhelp.logo.image' and 'webhelp.logo.image.target.url'.
+                            See: http://oxygenxml.com/doc/versions/17.1/ug-editor/#topics/dita_webhelp_output.html.
+                    -->
+                    <a href="index.html" class=" wh_logo hidden-xs "></a>
+                    <div class=" wh_publication_title "><a href="index.html"><span class="title"></span></a></div>
+                    
+                </div>
+                <button type="button" data-target=".wh_top_menu_and_indexterms_link" data-toggle="collapse" class="navbar-toggle collapsed wh_toggle_button">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+            <div class="wh_top_menu_and_indexterms_link collapse navbar-collapse">
+                
+                <div class=" wh_top_menu "><ul><li><span class="topicref"><a href="opening-page.html" data-id="concept_nlc_syr_kz">How to Make Breakfast for <span class="keyword">Armando</span></a></span></li><li><span class="topicref"><a href="recipe1-bagel.html" data-id="recipe_1">Recipe 1</a></span></li><li><span class="topicref"><a href="recipe7-cptoast.html" data-id="task_p2d_p3t_lz">Greek Chickpeas on Toast</a></span></li><li><span class="topicref"><a href="recipe3-CPpancake.html" data-id="task_ryg_z5x_kz">Jumbo Chickpea Pancake</a></span></li><li><span class="topicref"><a href="recipe2-omelette.html" data-id="task_kjf_mcj_kz">Omelette</a></span></li><li><span class="topicref"><a href="ft.html" data-id="task_ryg_z5x_kz">Vegan French Toast</a></span></li><li><span class="topicref"><a href="recipe5-quinoa.html" data-id="task_k1l_5bb_lz">Warm and Nutty Cinnamon Quinoa</a></span></li><li><span class="topicref"><a href="cleanup.html" data-id="cleanup">Cleanup</a></span></li><li><span class="topicref"><a href="ts.html" data-id="trouble_nxv_fkw_lz">Having Some Trouble?</a></span></li><li><span class="topicref"><a href="sources.html" data-id="topic_i4d_zsx_kz">Sources</a></span></li><li><span class="topicref"><a href="health-disc.html" data-id="disc">Health and Safety Warning</a></span></li></ul></div>
+                
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+        <!-- Search form -->
+        <div class=" wh_search_input navbar-form wh_main_page_search " role="form">
+          
+          <div class="wh_welcome"></div>          
+          <form id="searchForm" method="get" action="search.html"><div><input type="search" placeholder="Search " class="wh_search_textfield" id="textToSearch" name="searchQuery" /><button type="submit" class="wh_search_button"><span>Search</span></button></div></form>
+          
+        </div>
+        <div class="wh_content_area ">
+            
+            <!-- This is the placeholder for the main page tiles. -->
+            <div class="container wh_content_flex_container">
+                <!-- This is the placeholder for the main page tiles. -->
+                <div class=" wh_tiles "><div class=" wh_tile  " data-id="concept_nlc_syr_kz">
+                        <div>
+                            
+                            
+
+                            <div class="wh_tile_text">
+                                
+                                <div class=" wh_tile_title "><span class="topicref"><a href="opening-page.html" data-id="concept_nlc_syr_kz">How to Make Breakfast for <span class="keyword">Armando</span></a></span></div>
+
+                                
+                                <div class=" wh_tile_shortdesc ">You just woke up, so you must be starving! Here are a few recipes to chose from!
+</div>
+                            </div>
+                        </div>
+                    </div><div class=" wh_tile  " data-id="recipe_1">
+                        <div>
+                            
+                            
+
+                            <div class="wh_tile_text">
+                                
+                                <div class=" wh_tile_title "><span class="topicref"><a href="recipe1-bagel.html" data-id="recipe_1">Recipe 1</a></span></div>
+
+                                
+                                
+                            </div>
+                        </div>
+                    </div><div class=" wh_tile  " data-id="task_p2d_p3t_lz">
+                        <div>
+                            
+                            
+
+                            <div class="wh_tile_text">
+                                
+                                <div class=" wh_tile_title "><span class="topicref"><a href="recipe7-cptoast.html" data-id="task_p2d_p3t_lz">Greek Chickpeas on Toast</a></span></div>
+
+                                
+                                <div class=" wh_tile_shortdesc ">Add a dash of culture to your morning with this delicious toast, pictured here, created with Greece in mind!
+</div>
+                            </div>
+                        </div>
+                    </div><div class=" wh_tile  " data-id="task_ryg_z5x_kz">
+                        <div>
+                            
+                            
+
+                            <div class="wh_tile_text">
+                                
+                                <div class=" wh_tile_title "><span class="topicref"><a href="recipe3-CPpancake.html" data-id="task_ryg_z5x_kz">Jumbo Chickpea Pancake</a></span></div>
+
+                                
+                                <div class=" wh_tile_shortdesc ">Ever make pancakes out of chickpeas? Why not try it?
+</div>
+                            </div>
+                        </div>
+                    </div><div class=" wh_tile  " data-id="task_kjf_mcj_kz">
+                        <div>
+                            
+                            
+
+                            <div class="wh_tile_text">
+                                
+                                <div class=" wh_tile_title "><span class="topicref"><a href="recipe2-omelette.html" data-id="task_kjf_mcj_kz">Omelette</a></span></div>
+
+                                
+                                <div class=" wh_tile_shortdesc "> Here is how you make an omelette. 
+</div>
+                            </div>
+                        </div>
+                    </div><div class=" wh_tile  " data-id="task_ryg_z5x_kz">
+                        <div>
+                            
+                            
+
+                            <div class="wh_tile_text">
+                                
+                                <div class=" wh_tile_title "><span class="topicref"><a href="ft.html" data-id="task_ryg_z5x_kz">Vegan French Toast</a></span></div>
+
+                                
+                                <div class=" wh_tile_shortdesc ">
+</div>
+                            </div>
+                        </div>
+                    </div><div class=" wh_tile  " data-id="task_k1l_5bb_lz">
+                        <div>
+                            
+                            
+
+                            <div class="wh_tile_text">
+                                
+                                <div class=" wh_tile_title "><span class="topicref"><a href="recipe5-quinoa.html" data-id="task_k1l_5bb_lz">Warm and Nutty Cinnamon Quinoa</a></span></div>
+
+                                
+                                <div class=" wh_tile_shortdesc ">This recipe is perfect for a rainy Blacksburg morning -- featuring hearty quinoa, fresh fruits, and crunchy pecans.
+</div>
+                            </div>
+                        </div>
+                    </div><div class=" wh_tile  " data-id="cleanup">
+                        <div>
+                            
+                            
+
+                            <div class="wh_tile_text">
+                                
+                                <div class=" wh_tile_title "><span class="topicref"><a href="cleanup.html" data-id="cleanup">Cleanup</a></span></div>
+
+                                
+                                
+                            </div>
+                        </div>
+                    </div><div class=" wh_tile  " data-id="trouble_nxv_fkw_lz">
+                        <div>
+                            
+                            
+
+                            <div class="wh_tile_text">
+                                
+                                <div class=" wh_tile_title "><span class="topicref"><a href="ts.html" data-id="trouble_nxv_fkw_lz">Having Some Trouble?</a></span></div>
+
+                                
+                                
+                            </div>
+                        </div>
+                    </div><div class=" wh_tile  " data-id="topic_i4d_zsx_kz">
+                        <div>
+                            
+                            
+
+                            <div class="wh_tile_text">
+                                
+                                <div class=" wh_tile_title "><span class="topicref"><a href="sources.html" data-id="topic_i4d_zsx_kz">Sources</a></span></div>
+
+                                
+                                
+                            </div>
+                        </div>
+                    </div><div class=" wh_tile  " data-id="disc">
+                        <div>
+                            
+                            
+
+                            <div class="wh_tile_text">
+                                
+                                <div class=" wh_tile_title "><span class="topicref"><a href="health-disc.html" data-id="disc">Health and Safety Warning</a></span></div>
+
+                                
+                                <div class=" wh_tile_shortdesc ">
+</div>
+                            </div>
+                        </div>
+                    </div></div>
+                <!--
+                    This is the placeholder for the main page entries
+                    presented in a tree-like fashion.
+                -->
+                
+                
+            </div>
+        </div>
+        <nav class="navbar navbar-default wh_footer">
+  <div class=" footer-container text-center ">
+    WebHelp output generated by <a class="oxyFooter" href="http://www.oxygenxml.com" target="_blank"> &lt;oXygen/&gt; XML Author </a>
+  </div>
+</nav>
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="oxygen-webhelp/resources/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="oxygen-webhelp/template/resources/js/wt_default.js" type="text/javascript"></script>
+        
+        
+    </body>
+</html>
