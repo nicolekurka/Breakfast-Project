@@ -9,7 +9,7 @@ What to do when cleaning up after breakfast!
 * Freezer and Fridge
 
 ## What to Do
-_Now you're full, so now you have to clean up!  Here you'll find what to do with your leftover dishes._
+_You must be full, so now you have to clean up!  Here you'll find what to do with your leftover dishes._
 
 1. Place leftover food in Ziplock containers.  
 1. If you will eat it within the next two days, refridgerate it.  If you decide you won't eat it until after a couple days, freeze it.
