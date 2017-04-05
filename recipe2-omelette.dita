@@ -28,11 +28,11 @@
             <step>
                 <cmd>Sautee omelette fillings until all are cooked.</cmd>
             </step>
-            <step>
-               <cmd audience= "mom">While the fillings are cooking, crack the eggs into a different saucepan.</cmd>
+            <step audience= "mom">
+               <cmd>While the fillings are cooking, crack the eggs into a different saucepan.</cmd>
             </step>
-            <step>
-                <cmd audience="armando">While the fillings are cooking, lay the silken tofu in the pan</cmd>
+            <step audience="armando">
+                <cmd>While the fillings are cooking, lay the silken tofu in the pan</cmd>
             </step>
             <step>
                 <cmd>Heat the pan to low-to-medium heat.</cmd>
